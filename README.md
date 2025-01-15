@@ -1,44 +1,24 @@
-# Neto Barbosa
-### Desenvolvedor Full Stack
+## 💜 Olá, eu sou NetoBarbosa!
+
+Como um desenvolvedor full-stack experiente, liderei o desenvolvimento, implantação e manutenção de mais de 10 sistemas bem-sucedidos. Estou ansioso para explorar novas tecnologias e enfrentar novos desafios, buscando ativamente oportunidades para contribuir com minha experiência em projetos inovadores. Vamos nos conectar e explorar as possibilidades de ultrapassar limites juntos.
+
+💬 Quer conversar sobre desenvolvimento, trocar experiências ou discutir possíveis colaborações? Entre em contato comigo!
+- 📧 Email: neto_barbosap@hotmail.com
+- 💼 LinkedIn: linkedin.com/in/neto-barbosax/
+
 
 ---
 
-### Sobre mim
-Olá! Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Especializado em desenvolvimento web full stack, com experiência em diversas tecnologias modernas.
+## 🚀 Minhas Skills
 
-### Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/NetoBarbosaX">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoBarbosaX&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoBarbosaX&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
+### Frontend
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-### Tecnologias & Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-### Contato
-<div> 
-  <a href="https://instagram.com/_neto.barbosa" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> 
-  <a href="mailto:neto_barbosak@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
----
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+### Backend
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
