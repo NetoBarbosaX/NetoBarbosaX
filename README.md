@@ -1,4 +1,4 @@
-## 💜 Olá, eu sou NetoBarbosa!
+## Neto Barbosa
 
 Como um desenvolvedor full-stack experiente, liderei o desenvolvimento, implantação e manutenção de mais de 10 sistemas bem-sucedidos. Estou ansioso para explorar novas tecnologias e enfrentar novos desafios, buscando ativamente oportunidades para contribuir com minha experiência em projetos inovadores. Vamos nos conectar e explorar as possibilidades de ultrapassar limites juntos.
 
